@@ -17,19 +17,19 @@ TODO: Add bibtex citation
       <td><b>HR Mask</b></td>
     </tr>
     <tr>
-      <td><img src="lr/train/tile_1.16_1.png" width="200"></td>
-      <td><img src="hr/train/tile_1.16_1.png" width="200"></td>
-      <td><img src="hr-mask/train/tile_1.16_1.png" width="200"></td>
+      <td><img src="lr/train/tile_1.16_1.png" width="256"></td>
+      <td><img src="hr/train/tile_1.16_1.png" width="256"></td>
+      <td><img src="hr-mask/train/tile_1.16_1.png" width="256"></td>
     </tr>
     <tr>
-      <td><img src="lr/train/tile_5.18_7.png" width="200"></td>
-      <td><img src="hr/train/tile_5.18_7.png" width="200"></td>
-      <td><img src="hr-mask/train/tile_5.18_7.png" width="200"></td>
+      <td><img src="lr/train/tile_5.18_7.png" width="256"></td>
+      <td><img src="hr/train/tile_5.18_7.png" width="256"></td>
+      <td><img src="hr-mask/train/tile_5.18_7.png" width="256"></td>
     </tr>
     <tr>
-      <td><img src="lr/train/tile_6.0_5.png" width="200"></td>
-      <td><img src="hr/train/tile_6.0_5.png" width="200"></td>
-      <td><img src="hr-mask/train/tile_6.0_5.png" width="200"></td>
+      <td><img src="lr/train/tile_6.0_5.png" width="256"></td>
+      <td><img src="hr/train/tile_6.0_5.png" width="256"></td>
+      <td><img src="hr-mask/train/tile_6.0_5.png" width="256"></td>
     </tr>
   </table>
 </div>
