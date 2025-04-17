@@ -3,6 +3,9 @@
 ## Overview
 UUAD is a comprehensive dataset for unplanned urban area mapping, designed to support machine learning applications for remote sensing. It contains high-resolution (HR) and low-resolution (LR) satellite imagery along with corresponding ground truth masks.
 
+TODO: Add paper link\
+TODO: Add bibtex citation
+
 
 ## Sample Images from UUAD
 
