@@ -50,9 +50,7 @@ UUAD/
 
 
 ## Usage
-This dataset can be used for:
-- Super-resolution applications
-- Unplanned urban area segmentation
+This dataset can be used for: (1) super-resolution applications, and (2) unplanned urban area segmentation tasks.
 
 
 ## Acknowledgments
@@ -66,6 +64,7 @@ macario.cordel@dlsu.edu.ph
 
 ## Citation
 If you found our work helpful in your research, please consider citing it. Your support is greatly appreciated!
+
 ```bibtex
 @inproceedings{uuad,
   author    = {Ang Ngo Ching, Josh Darren W. and
