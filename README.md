@@ -11,7 +11,7 @@ UUAD is a comprehensive dataset for unplanned urban area mapping, designed to su
 ## Sample Images from UUAD
 <div align="center">
   <figure>
-    <img src="samples.png" alt="UUAD Dataset Samples">
+    <img src="samples.png" alt="UUAD Dataset Samples" width="500">
   </figure>
 </div>
 
@@ -58,8 +58,14 @@ This dataset can be used for:
 ## Acknowledgments
 The HR imagery and masks in this dataset are sourced from [Mendeley Data](https://data.mendeley.com/datasets/xj2v49zt26/1). We thank the authors for making their data publicly available.
 
+
+## Contact
+For any questions or inquiries, please contact:
+macario.cordel@dlsu.edu.ph
+
+
 ## Citation
-If found our work helpful in your research, please consider citing it. Your support is greatly appreciated!
+If you found our work helpful in your research, please consider citing it. Your support is greatly appreciated!
 ```bibtex
 @inproceedings{uuad,
   author    = {Ang Ngo Ching, Josh Darren W. and
